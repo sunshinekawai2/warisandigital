@@ -355,9 +355,9 @@ input, textarea, select {
 
 .about, .timeline {
   padding: 80px 10%;
-  background-color: #0b0b0b;;
   color: #f5f5f5;
 }
+
 
 .section-title {
   font-size: 2rem;
@@ -504,4 +504,5 @@ html {
     font-family: 'Playfair Display', serif;
     color: var(--accent);
     margin-bottom: 20px;
+
 }
